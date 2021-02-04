@@ -6,7 +6,7 @@ Most central to the analysis written in these package is going from the raw data
 
 1. Using calibration datasets to extract information needed to determine the proportionality of the voltage to the local field (ie, determine the magnitude of the oscillation). 
 2. Manipulate the dataset (data integration + FFT magnetization reversal). 
-3. Simulation of gradient signal for understanding. 
+3. Simulation of gradient signal for understanding (simulate AC signal and take first harmonic)
 
 
 # Installation-Instructions
