@@ -9,7 +9,7 @@ Most central to the analysis written in these package is going from the raw data
 3. Simulation of gradient signal for understanding. 
 
 
-#Installation-Instructions
+# Installation-Instructions
 
 
 1. Download ALL FOLDERS the Data Analysis Package from GitHub
