@@ -1,5 +1,17 @@
 # nanoSQUID-DataAnalysis
 
+Data analysis functions written in MATLAB and Python to manipulate data saved in LabRAD's default data saving structure. 
+
+Most central to the analysis written in these package is going from the raw data, which provides a voltage proportional to the local gradient of the magnetic field, to a magnetization density map. There are three main functions written into this analysis package: 
+
+1. Using calibration datasets to extract information needed to determine the proportionality of the voltage to the local field (ie, determine the magnitude of the oscillation). 
+2. Manipulate the dataset (data integration + FFT magnetization reversal). 
+3. Simulation of gradient signal for understanding. 
+
+
+#Installation-Instructions
+
+
 1. Download ALL FOLDERS the Data Analysis Package from GitHub
 2. Make sure that Matlab and Python are installed on this computer
 3. Make sure that Data Vault is on this computer
